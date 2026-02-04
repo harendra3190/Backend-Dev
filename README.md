@@ -1,1 +1,0 @@
-I am Harendra Pratap Singh, and this is my Backend-Dev Repo for Bridgelabz classes.
