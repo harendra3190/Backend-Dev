@@ -1,17 +1,21 @@
 {
-  "name": "expressjs-backend",
+  "name": "backend-dev",
   "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/shamsingh05/Backend-Dev#readme",
+  "bugs": {
+    "url": "https://github.com/shamsingh05/Backend-Dev/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shamsingh05/Backend-Dev.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js"
-  },
-  "keywords": [],
-  "author": "Harsh Sharma",
-  "license": "ISC",
-  "description": "",
-  "type": "commonjs",
-  "dependencies": {
-    "express": "^5.2.1"
+    "start": "node server.js"
   }
 }
